@@ -1,0 +1,1 @@
+NotesAPP is a cross-platform mobile note-taking application built with React Native. It allows users to create, edit, and organize notes. The app supports offline access, synchronization across devices.
